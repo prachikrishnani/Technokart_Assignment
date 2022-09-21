@@ -1,0 +1,14 @@
+<div class="grid-container" style="display:grid ;grid-template-columns: auto auto auto;">
+  <div class="grid-item" style="background-color: rgb(217, 217, 246);"></div>
+  <div class="grid-item">
+    <nav class="navbar navbar-light" style="background-color: rgb(217, 217, 246); color: rgb(3, 3, 203);">
+      <div class="container-fluid">
+        <form class="d-flex" [formGroup]="searchValue">
+          <input class="form-control me-2" type="text" id="movieSearch" formControlName="searchMovie" placeholder="Search" aria-label="Search" style="width: 400px;" />
+          <button class="btn btn-outline-help" style="background-color: rgb(3, 3, 203);color: white;"  type="submit" (click)="searchMovieData()">Search</button>
+        </form>
+      </div>
+    </nav>
+  </div>
+  <div class="grid-item" style="background-color: rgb(217, 217, 246);"></div>
+</div>
