@@ -3,7 +3,9 @@ For Popular movies---
 ![image](https://user-images.githubusercontent.com/77547892/191420746-4ab402ec-77a3-4446-b8c6-0ed773c484bd.png)
 
 
-For Seach movies
+
+
+For Seach movies---
 ![image](https://user-images.githubusercontent.com/77547892/191420946-9cb89fdd-b4cd-4091-a864-522d7b0e43dc.png)
 
 
